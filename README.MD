@@ -1,8 +1,8 @@
-# This repository is created under  FUTURE READY TALENT INTERNSHIP 
+# This repository is created under  RITIK KUMAR 
 <br>
 <h1>
 To run this website  click on this link below <br>
- https://ritik9931.github.io/Future-Ready-Talent-Hunt-project/
+ https://ritik9931.github.io/FoodHut/
 </h1>
 
 #  FOODHUT-RESTUARANT 
